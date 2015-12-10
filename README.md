@@ -1,10 +1,10 @@
-# FlipStart.
+# ReBoot.
 
-FlipStart was created by the team at ThemeFlip to kickstart new front-end projects.
+ReBoot was created by the front-end team at SocietyOne to kickstart new front-end projects.
 
 The setup embraces the modularity of Jade, Stylus and BEM to provide a simple, clean starting point.
 
-FlipStart does not pretend to be the ultimate solution for any project. It does a good job for us at providing a simple structure to build upon. Feel free to clone it or fork it if you find a good use for it too!
+ReBoot does not pretend to be the ultimate solution for any project. It does a good job for us at providing a simple structure to build upon. Feel free to clone it or fork it if you find a good use for it too!
 
 ### Installation
 
@@ -35,7 +35,3 @@ Most Bootstrap CSS and JS modules are disabled by default - un-comment them to a
 * Sourcemaps generated for the CSS and JS
 * Concat + minification of CSS and JS assets via `gulp-useref`
 * BrowserSync server with multi-device syncing and live reload
-
-### Feedback Welcome!
-
-We certainly don't pretend that FlipStart is teh silver bullet of front-end devleopment. We are openly welcoming any sort of feedback on how to improve the kit. Should you have any questions or recommendations, please reach out!

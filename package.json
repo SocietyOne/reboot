@@ -1,12 +1,13 @@
 {
-  "name": "flipstart",
+  "name": "reboot",
   "version": "1.0.0",
-  "description": "A starting point composed of Jade, Stylus, Gulp and BrowserSync, with a touch of BEM methodology for good measure.",
+  "description": "SocietyOne's front end starter kit composed of Jade, Stylus, Gulp and BrowserSync, with a touch of BEM methodology for good measure.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "surge": "gulp build && surge -p build"
   },
-  "author": "ThemeFlip",
+  "author": "SocietyOne",
   "license": "ISC",
   "devDependencies": {
     "bootstrap-styl": "^4.0.5",

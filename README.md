@@ -1,10 +1,10 @@
-# ReBoot.
+# Reboot.
 
-ReBoot was created by the front-end team at SocietyOne to kickstart new front-end projects.
+Reboot was created by the front-end team at SocietyOne to kickstart new front-end projects.
 
 The setup embraces the modularity of Jade, Stylus and BEM to provide a simple, clean starting point.
 
-ReBoot does not pretend to be the ultimate solution for any project. It does a good job for us at providing a simple structure to build upon. Feel free to clone it or fork it if you find a good use for it too!
+Reboot does not pretend to be the ultimate solution for any project. It does a good job for us at providing a simple structure to build upon. Feel free to clone it or fork it if you find a good use for it too!
 
 ### Installation
 
